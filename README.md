@@ -1,28 +1,3 @@
-Task: Create a Contact Form
-Ask the intern to create a basic contact form with the following requirements:
-
-Form Fields:
-
-Name (text input)
-Email (email input)
-Phone Number (tel input)
-Subject (text input)
-Message (textarea)
-Additional Requirements:
-
-All fields should be required.
-Use appropriate HTML5 form validations.
-Include a submit button.
-Layout:
-
-Use a simple and clean layout, ensuring all fields are neatly aligned.
-Styling:
-
-Apply basic CSS styles to make the form visually appealing.
-
-
-
-
 # Monnify Sample Checkout Page
 
 This repository contains a sample checkout page integrating Monnify, a payment gateway. The page is designed to demonstrate a simple payment process using Monnify.
